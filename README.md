@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/FranJ18/product-card-component](https://github.com/FranJ18/product-card-component)
+- Live Site URL: [https://franproductcomponent.netlify.app/](https://franproductcomponent.netlify.app/)
 
 
 ### Built with
